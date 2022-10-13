@@ -1,0 +1,29 @@
+{
+"class": "python",
+"school": "evolvecyber",
+"location": 10400,
+"instructors": [
+        {
+        "instructor1":{
+        "name": "islam",
+        "lastname": "kambarov"
+        }
+        },
+         
+        {
+        "instructor2":{
+        "name": "farrukh",
+        "lastname": "sadykov"
+        }
+        },
+        {
+        "instructor3":{
+        "name": "turkana",
+        "lastname": "mamadova"
+         }
+        }
+      ]
+}
+
+
+
